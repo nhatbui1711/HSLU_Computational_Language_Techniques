@@ -1,1 +1,1 @@
-# HSLU_Natural_Computational_Techniques
+HSLU_Computational_Language_Techniques
